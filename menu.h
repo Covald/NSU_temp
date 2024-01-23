@@ -1,0 +1,11 @@
+//
+// Created by covald on 23.01.24.
+//
+
+#ifndef STRUCTURE_PROGRAMMING_PROJECT_AUTH_MENU_H
+#define STRUCTURE_PROGRAMMING_PROJECT_AUTH_MENU_H
+
+#endif //STRUCTURE_PROGRAMMING_PROJECT_AUTH_MENU_H
+#include "AVL.h"
+
+void main_menu(AVL *avl);
